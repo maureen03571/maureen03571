@@ -55,8 +55,11 @@ status:    breaking things to make them stronger
 ## `$ ./stats`
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maureen03571&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureen03571&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
+![Followers](https://img.shields.io/github/followers/maureen03571?style=for-the-badge&logo=github&color=ff4fd8&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaureen03571&query=%24.public_repos&label=repos&style=for-the-badge&logo=git&color=22d3ee&labelColor=0d1117)
+![Member since](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaureen03571&query=%24.created_at&label=joined&style=for-the-badge&color=b026ff&labelColor=0d1117)
+
 </div>
 
 ## `$ ./contact --open`
@@ -70,3 +73,5 @@ status:    breaking things to make them stronger
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%"/>
 
 </div>
+
+
